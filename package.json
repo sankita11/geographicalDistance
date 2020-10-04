@@ -1,0 +1,24 @@
+{
+  "name": "finddistance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sankita11/findDistance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sankita11/findDistance/issues"
+  },
+  "homepage": "https://github.com/sankita11/findDistance#readme",
+  "dependencies": {
+    "jest": "^26.4.2"
+  },
+  "keywords": ["Great Circle Distance", 
+    "Nodejs"]
+}
