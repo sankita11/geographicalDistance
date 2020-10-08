@@ -1,5 +1,5 @@
 # Get the list of customers within 100km of Dublin office
-This program parses customers.txt file and returns all the customers within 100 Km of Dublin office using the geographical coordinates of the office and the customers. This uses Node.js and below are commands to run this program.
+This program written in Node.js parses customers.txt file and returns all the customers within 100 Km of Dublin office using the geographical coordinates of the office and the customers. This uses basic great-circle distance formula and its implemeted in Node.js and below are commands to run this program.
 
 ## Install dependency
 npm install
